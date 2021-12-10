@@ -1,5 +1,5 @@
 # 2021-Advent_of_Code
-Solving Advent of Code in Python, Javascript, R, C, Java or GO
+Solving Advent of Code in Python, Javascript, R, C, Java or/and GO
 
 All Advent of code tasks from 2021 are stored in this repository.
 
